@@ -24,7 +24,7 @@
 
 ## Tools
 
-[packer-cio](https://github.com/Storidge/packer-cio) - Packer Templates for Storidge CIO
+[packer-cio](https://github.com/Storidge/packer-cio) - Create AWS AMI and DigitalOcean images with Storidge CIO software installed
 
 [terraform-aws-swarm-cio](https://github.com/Storidge/terraform-aws-swarm-cio) - Terraform configuration files for deploying on AWS
 
