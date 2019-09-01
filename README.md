@@ -12,7 +12,7 @@
 
 [How it works](https://github.com/Storidge/cio-user-docs/blob/master/introduction/how_it_works.md) - Overview of Storidge software and the CIO abstraction layer
 
-[CIO vs Others](https://github.com/Storidge/cio-user-guide/tree/master/cio_vs_others) - compares Storidge's to other technologies and approaches for cloud native storage
+[CIO vs Others](https://github.com/Storidge/cio-user-guide/tree/master/cio_vs_others) - compares Storidge CIO to other technologies and approaches for cloud native storage
 
 ## Cloud References
 
