@@ -4,9 +4,9 @@
 
 [User guide](https://github.com/Storidge/cio-user-guide) - Introduction, user guide and exercises for deploying and managing Storidge cluster
 
-[cio cli](https://docs.storidge.com/cio_cli/overview.html) - cio command-line used to manage logical resources, such as volumes, snapshots and profiles
+[cio cli](https://github.com/Storidge/cio-user-docs/tree/master/cio_cli) - cio command-line used to manage logical resources, such as volumes, snapshots and profiles
 
-[cioctl cli](https://docs.storidge.com/cioctl_cli/overview.html) - cioctl command-line used to manage cluster level resources, such as drives and nodes
+[cioctl cli](https://github.com/Storidge/cio-user-docs/tree/master/cioctl_cli) - cioctl command-line used to manage cluster level resources, such as drives and nodes
 
 [API](https://storidge.com/api/) - Swagger documentation for REST API
 
