@@ -16,13 +16,23 @@
 
 ## Cloud References
 
-[AWS](https://github.com/Storidge/cio-user-docs/blob/master/cloud_reference/aws.md) - guide for deploying Storidge cluster on AWS instances
+[AWS](https://github.com/Storidge/cio-user-docs/blob/master/cloud_reference/aws.md) - deploying Storidge cluster on AWS instances
 
-[DigitalOcean](https://github.com/Storidge/cio-user-docs/blob/master/cloud_reference/digitalocean.md) - guide for deploying Storidge cluster using DO droplets
+[Kubernetes on AWS](https://github.com/Storidge/cio-user-docs/blob/master/cloud_reference/kubernetes_storidge_aws.md) - deploying Storidge persistent storage cluster with Kubernetes on AWS
+
+[DigitalOcean](https://github.com/Storidge/cio-user-docs/blob/master/cloud_reference/digitalocean.md) - deploying Storidge cluster using DO droplets
+
+[vSphere](https://github.com/Storidge/cio-user-docs/blob/master/cloud_reference/swarm_storidge_vsphere.md) - deploying Storidge cluster on vSphere VMs
 
 ## Integrations
 
+[Grafana](https://github.com/Storidge/cio-user-docs/blob/master/integrations/grafana.md) - Visualize Storidge cluster metrics with Grafana
+
+[minikube](https://github.com/Storidge/cio-user-docs/blob/master/cookbook/storidge_with_minikube.md) - Single node Storidge cluster with minikube 
+
 [Portainer](https://github.com/Storidge/cio-user-docs/blob/master/integrations/portainer.md) - List of Storidge capabilities available within Portainer
+
+[Prometheus](https://github.com/Storidge/cio-user-docs/blob/master/integrations/prometheus.md) - Exporting metrics to Prometheus from a Storidge cluster
 
 ## Tools
 
